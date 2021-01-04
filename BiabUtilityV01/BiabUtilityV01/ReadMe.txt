@@ -226,3 +226,316 @@ C:\bb\Soundtrack MIDI Fakebook
 @"C:\bb\Soundtrack MIDI Fakebook", 
 
 
+
+
+2021-01-04-12-29.
+
+source = C:\bb\Tutorial - BB 2006
+dest   = C:\bb\Documentation\Tutorials\Tutorial - BB 2006
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Tutorial - BB 2006
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Tutorial - BB2012
+dest   = C:\bb\Documentation\Tutorials\Tutorial - BB2012
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Tutorial - BB2012
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Tutorial - Repeats and Endings
+dest   = C:\bb\Documentation\Tutorials\Tutorial - Repeats and Endings
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Tutorial - Repeats and Endings
+<<<<<< mergeFolders errorCount 0
+
+There are no files found by mask C:\bb\BBToolBar*.ini
+Files with ST2 extension are absent in folder C:\bb\
+Files with ST3 extension are absent in folder C:\bb\
+Files with XT2 extension are absent in folder C:\bb\
+>>>>>> mergeFolders
+source = C:\bb\Artist Performance Sets
+dest   = C:\bb\Songs and Lessons\Artist Performance Sets
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Artist Performance Sets
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Artist Video Performance Sets
+dest   = C:\bb\Songs and Lessons\Artist Video Performance Sets
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Artist Video Performance Sets
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Instrumental Studies
+dest   = C:\bb\Songs and Lessons\Instrumental Studies
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Instrumental Studies
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\20 Tunes - Blues Guitar Vol. 2
+dest   = C:\bb\Songs and Lessons\20 Tunes - Blues Guitar Vol. 2
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\20 Tunes - Blues Guitar Vol. 2
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\20 Tunes - Jazz Guitar Vol. 3
+dest   = C:\bb\Songs and Lessons\20 Tunes - Jazz Guitar Vol. 3
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\20 Tunes - Jazz Guitar Vol. 3
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\20 Tunes - Rock Guitar Vol. 2
+dest   = C:\bb\Songs and Lessons\20 Tunes - Rock Guitar Vol. 2
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\20 Tunes - Rock Guitar Vol. 2
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Guitar Comping - High Strings
+dest   = C:\bb\Songs and Lessons\101 Guitar Comping - High Strings
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Guitar Comping - High Strings
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Guitar Comping - Low Strings
+dest   = C:\bb\Songs and Lessons\101 Guitar Comping - Low Strings
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Guitar Comping - Low Strings
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs - Blues Guitar Vol. 1
+dest   = C:\bb\Songs and Lessons\101 Riffs - Blues Guitar Vol. 1
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs - Blues Guitar Vol. 1
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs - Rock Guitar Vol. 1
+dest   = C:\bb\Songs and Lessons\101 Riffs - Rock Guitar Vol. 1
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs - Rock Guitar Vol. 1
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\50SONGS
+dest   = C:\bb\Songs and Lessons\50SONGS
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\50SONGS
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs - Bluegrass Guitar
+dest   = C:\bb\Songs and Lessons\101 Riffs - Bluegrass Guitar
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs - Bluegrass Guitar
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs - Blues Piano
+dest   = C:\bb\Songs and Lessons\101 Riffs - Blues Piano
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs - Blues Piano
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs - Country Guitar with Audio Memos
+dest   = C:\bb\Songs and Lessons\101 Riffs - Country Guitar with Audio Memos
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs - Country Guitar with Audio Memos
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs - Jazz (All instruments)
+dest   = C:\bb\Songs and Lessons\101 Riffs - Jazz (All instruments)
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs - Jazz (All instruments)
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs - Jazz Guitar Phrases
+dest   = C:\bb\Songs and Lessons\101 Riffs - Jazz Guitar Phrases
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs - Jazz Guitar Phrases
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs - Jazz Piano
+dest   = C:\bb\Songs and Lessons\101 Riffs - Jazz Piano
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs - Jazz Piano
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs -Solo Intros
+dest   = C:\bb\Songs and Lessons\101 Riffs -Solo Intros
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs -Solo Intros
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\101 Riffs -Trio Intros
+dest   = C:\bb\Songs and Lessons\101 Riffs -Trio Intros
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\101 Riffs -Trio Intros
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\BLUEJAMC
+dest   = C:\bb\Songs and Lessons\BLUEJAMC
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\BLUEJAMC
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\BLUEJAMF
+dest   = C:\bb\Songs and Lessons\BLUEJAMF
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\BLUEJAMF
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\BGFAKE
+dest   = C:\bb\Songs and Lessons\BGFAKE
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\BGFAKE
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\bpsolos
+dest   = C:\bb\Songs and Lessons\bpsolos
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\bpsolos
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\CGSOLOS
+dest   = C:\bb\Songs and Lessons\CGSOLOS
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\CGSOLOS
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\CLASFAKE
+dest   = C:\bb\Songs and Lessons\CLASFAKE
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\CLASFAKE
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Classical MIDI-FakeBook3
+dest   = C:\bb\Songs and Lessons\Classical MIDI-FakeBook3
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Classical MIDI-FakeBook3
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Classical MIDI-Fakebook 2
+dest   = C:\bb\Songs and Lessons\Classical MIDI-Fakebook 2
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Classical MIDI-Fakebook 2
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\CopyMe
+dest   = C:\bb\Songs and Lessons\CopyMe
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\CopyMe
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Duets for Sight Reading
+dest   = C:\bb\Songs and Lessons\Duets for Sight Reading
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Duets for Sight Reading
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Ear Training
+dest   = C:\bb\Songs and Lessons\Ear Training
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Ear Training
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\FGSOLO50
+dest   = C:\bb\Songs and Lessons\FGSOLO50
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\FGSOLO50
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Folk Songs
+dest   = C:\bb\Songs and Lessons\Folk Songs
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Folk Songs
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Jazz Guitar Solos - Swingin Vol 4
+dest   = C:\bb\Songs and Lessons\Jazz Guitar Solos - Swingin Vol 4
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Jazz Guitar Solos - Swingin Vol 4
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\JAZZPRAC
+dest   = C:\bb\Songs and Lessons\JAZZPRAC
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\JAZZPRAC
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\JGSOLOS
+dest   = C:\bb\Songs and Lessons\JGSOLOS
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\JGSOLOS
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Novelty Piano Riffs
+dest   = C:\bb\Songs and Lessons\Novelty Piano Riffs
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Novelty Piano Riffs
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Swingin' Jazz Piano Solos
+dest   = C:\bb\Songs and Lessons\Swingin' Jazz Piano Solos
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Swingin' Jazz Piano Solos
+<<<<<< mergeFolders errorCount 0
+
+>>>>>> mergeFolders
+source = C:\bb\Soundtrack MIDI Fakebook
+dest   = C:\bb\Songs and Lessons\Soundtrack MIDI Fakebook
+backup = C:\bb\Data\Backup\Misc\
+ERROR: source dir does not exist: C:\bb\Soundtrack MIDI Fakebook
+<<<<<< mergeFolders errorCount 0
+
+Files with STY extension are absent in folder C:\bb\
+Files with STX extension are absent in folder C:\bb\
+There are no files found by mask C:\bb\unins*.exe
+There are no files found by mask C:\bb\unins*.dat
+work completed
+
+
+
+
+
+
+
+
+
+C:\bb\Tutorial - BB 2006
+C:\bb\Tutorial - BB2012
+C:\bb\Tutorial - Repeats and Endings
+C:\bb\Artist Performance Sets
+
